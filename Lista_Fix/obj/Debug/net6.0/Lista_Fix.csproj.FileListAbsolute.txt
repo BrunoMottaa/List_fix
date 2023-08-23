@@ -1,0 +1,15 @@
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\bin\Debug\net6.0\Lista_Fix.exe
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\bin\Debug\net6.0\Lista_Fix.deps.json
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\bin\Debug\net6.0\Lista_Fix.runtimeconfig.json
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\bin\Debug\net6.0\Lista_Fix.dll
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\bin\Debug\net6.0\Lista_Fix.pdb
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.csproj.AssemblyReference.cache
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.AssemblyInfoInputs.cache
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.AssemblyInfo.cs
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.csproj.CoreCompileInputs.cache
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.dll
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\refint\Lista_Fix.dll
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.pdb
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\Lista_Fix.genruntimeconfig.cache
+C:\Visual C#\C# 00\Lista_Fix\Lista_Fix\obj\Debug\net6.0\ref\Lista_Fix.dll
